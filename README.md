@@ -1,2 +1,5 @@
-# scanner
-A relay board for scanning voltage references.
+# Scanner
+
+This ia a relay board for scanning voltage references.
+
+
